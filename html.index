@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<div id="main">
+<title id="title">Benjamin Franklin Tribute</title>
+
+<h1><u>Benjamin Franklin</u></h1>
+<p id="subtitle"> Founding Father and Inventor</p>
+<!-- Double check image info ID to ensure it's correct-->
+<div id="img-div" alt="Portrait of Benjamin Franklin" id="img-caption">
+  <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/2/25/Franklin-Benjamin-LOC.jpg" width="250" height ="300">
+</div>
+<!-- Tribute info needs fleshed out -->
+<main>
+<p id="tribute-info">
+  Benjamin Franklin was a brilliant man who provided many advances for his time and future generations.
+</p>
+
+<p>
+   Here is additional information on Benjamin Franklin: <a href="https://en.wikipedia.org/wiki/Benjamin_Franklin" id="tribute-link" target="_blank">Benjamin Franklin at Wikipedia.</a>
+</p>
+  </div>
+</html>
